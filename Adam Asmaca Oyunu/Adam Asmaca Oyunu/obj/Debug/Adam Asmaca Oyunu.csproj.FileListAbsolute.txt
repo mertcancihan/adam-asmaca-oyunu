@@ -1,0 +1,12 @@
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe.config
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csprojAssemblyReference.cache
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Properties.Resources.resources
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.GenerateResource.cache
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.exe
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Game.resources
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Register.resources
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.WordProcess.resources
+C:\Users\canci\Documents\Visual Studio 2019\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Score.resources
